@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pro201-SmidigProsj",
+    "slug": "Pro201-SmidigProsj",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Pro201-SmidigProsj"
+}
